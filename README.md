@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- [https://github-readme-stats-alices-projects-cd83d0c6.vercel.app/](https://github-readme-stats-six-sigma-63.vercel.app/) -->
 ## About Me:
-Entered the dev world by chance, stayed for the challenge. Now turning curiosity into skills, one project at a time. 
+Hello, I'm Alice! Entered the dev world by chance, stayed for the challenge. Now turning curiosity into skills, one project at a time. 
 Started with Python for automation projects and now focused on full stack development.
 
 
