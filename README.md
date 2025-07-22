@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- [https://github-readme-stats-alices-projects-cd83d0c6.vercel.app/](https://github-readme-stats-six-sigma-63.vercel.app/) -->
-[![Top Langs](https://github-readme-stats-six-sigma-63.vercel.app/api/top-langs/?username=aliceschm)](https://github.com/aliceschm/github-readme-stats)
+[![Top Langs](https://github-readme-stats-six-sigma-63.vercel.app/api/top-langs/?username=aliceschm&cache_seconds=1)](https://github.com/aliceschm/github-readme-stats)
