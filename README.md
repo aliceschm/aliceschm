@@ -1,11 +1,11 @@
 > Learning new things and breaking stuff on purpose. 👩‍💻
 
 
-<!-- [https://github-readme-stats-alices-projects-cd83d0c6.vercel.app/](https://github-readme-stats-six-sigma-63.vercel.app/) -->
 ## About Me:
 Hello, I'm Alice! Entered the dev world by chance, stayed for the challenge. Now turning curiosity into skills, one project at a time. 
 Started learning Python in 2022 to build automation projects, and in 2023 I joined a dev team as a full stack developer.
 Currently focused on building solutions with modern tools and frameworks.
+
 
 ### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aliceschm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alice-schmidt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aliceschmidt.dev@gmail.com) 
@@ -13,7 +13,11 @@ Currently focused on building solutions with modern tools and frameworks.
 
 
 ### Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
+
 
 ### Currently learning/exploring:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
