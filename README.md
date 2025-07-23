@@ -31,12 +31,22 @@ Currently focused on building solutions with modern tools and frameworks.
 
 
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliceschm/aliceschm/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aliceschm/aliceschm/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aliceschm/aliceschm/output/pacman-contribution-graph.svg">
 </picture>
 
-![My intern](https://link-da-foto-do-cachorro.jpg)
+<br></br>
 
-*Meet my intern — any weird commits or bugs are probably his fault! 🐾*
+<table border="0">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/aliceschm/aliceschm/refs/heads/main/jupi.JPG" width="150" alt="My intern" /></td>
+    <td>
+      <p>Meet my intern Júpiter!</p>
+        <p>Any weird commits or bugs are probably his fault!</p>
+    </td>
+  </tr>
+</table>
+
