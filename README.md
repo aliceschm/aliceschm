@@ -31,7 +31,6 @@ Currently focused on building solutions with modern tools and frameworks.
 
 ### Currently learning/exploring:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 
 <p>
 To be honest, I enjoy mixing tools and technologies depending on what fits best for each project. Please trust the GitHub stats more than my ability to keep this README updated.
