@@ -39,7 +39,7 @@ Currently focused on building solutions with modern tools and frameworks.
 
 <table border="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/aliceschm/aliceschm/refs/heads/main/jupi.JPG" width="150" alt="My intern" /></td>
+    <td><img src="https://raw.githubusercontent.com/aliceschm/aliceschm/refs/heads/main/jupi.JPG" width="130" alt="My intern" /></td>
     <td>
       <p>Meet my intern Júpiter!</p>
         <p>Any weird commits or bugs are probably his fault!</p>
