@@ -32,9 +32,6 @@ Currently focused on building solutions with modern tools and frameworks.
 ### Currently learning/exploring:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 
-<p>
-To be honest, I enjoy mixing tools and technologies depending on what fits best for each project. Please trust the GitHub stats more than my ability to keep this README updated.
-</p>
 
 ### GitHub Stats:
 ![](https://github-readme-stats-six-sigma-63.vercel.app/api/top-langs/?username=aliceschm&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
