@@ -2,9 +2,11 @@
 
 
 ## About Me:
-Hello, I'm Alice! Entered the dev world by chance, stayed for the challenge. Now turning curiosity into skills, one project at a time. 
-Started learning Python in 2022 to build automation projects, and in 2023 I joined a dev team as a full stack developer.
-Currently focused on building solutions with modern tools and frameworks.
+Hello, I'm Alice! Entered the dev world by chance, stayed for the challenge. <br>
+I started with automation projects and later joined a development team as a full stack developer. Today I focus on building practical solutions, combining backend logic, data handling and user-facing applications. <br>
+
+I build and break things until I understand not only why they fail, but why they work.
+
 <p></p>
 
 ### Socials:
