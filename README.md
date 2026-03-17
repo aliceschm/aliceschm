@@ -2,7 +2,7 @@
 
 
 ## About Me:
-Hello, I'm Alice! Entered the dev world by chance, stayed for the challenge. <br>
+Hello, I'm Alice. I'm a software engineer who entered the dev world by chance and stayed for the challenge. <br>
 I started with automation projects and later joined a development team as a full stack developer. Today I focus on building practical solutions, combining backend logic, data handling and user-facing applications. <br>
 
 I build and break things until I understand not only why they fail, but why they work.
