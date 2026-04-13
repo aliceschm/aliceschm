@@ -3,45 +3,23 @@
 
 ## About Me:
 Hello, I'm Alice. I'm a software engineer who entered the dev world by chance and stayed for the challenge. <br>
-I started with automation projects and later joined a development team as a full stack developer. Today I focus on building practical solutions, combining backend logic, data handling and user-facing applications. <br>
+I started with automation projects and later joined a development team as a full stack developer, that’s when things got interesting. <br>
+I mostly work with Python and TypeScript, building web applications with a focus on how systems are designed and connected.
 
-I build and break things until I understand not only why they fail, but why they work.
 
 <p></p>
 
 ### Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alice-schmidt) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aliceschmidt.dev@gmail.com) 
-
+- [LinkedIn](https://linkedin.com/in/alice-schmidt)  
+- [Email](mailto:aliceschmidt.dev@gmail.com)
 <p></p>
 
-### Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=plastic&logo=astro&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
 
-<p></p>
-
-### Currently learning/exploring:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-
-
-### GitHub Stats:
-![](https://github-readme-stats-six-sigma-63.vercel.app/api/top-langs/?username=aliceschm&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <table border="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/aliceschm/aliceschm/refs/heads/main/jupi.JPG" width="130" alt="My intern" /></td>
+    <td><img src="https://raw.githubusercontent.com/aliceschm/aliceschm/refs/heads/main/jupi.JPG" width="100" alt="My intern" /></td>
     <td>
       <p>Meet my intern Júpiter!</p>
         <p>Any weird commits or bugs are probably his fault!</p>
