@@ -2,9 +2,8 @@
 
 Hello! I'm Alice!
 
-I'm a software engineer who got into the dev world by overthinking things while working in finance operations.
-
-I care a lot about system design, and I have a hard time not refactoring things.
+I'm a software engineer who got into the dev world by overthinking things while working in finance operations.<br>
+Now I overthink how things are built, and I have a hard time not refactoring them.
 
 I mostly work with Python and TypeScript, usually mixing in other tools and frameworks as I go.
 
