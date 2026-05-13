@@ -7,6 +7,7 @@ Now I overthink how things are built, and I have a hard time not refactoring the
 
 I mostly work with Python and TypeScript, usually mixing in other tools and frameworks as I go.
 
+[aliceschm.com](https://www.aliceschm.com)
 
 <p></p>
 
