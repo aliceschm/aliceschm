@@ -5,9 +5,14 @@ Hello! I'm Alice!
 I'm a software engineer who got into the dev world by overthinking things while working in finance operations.<br>
 Now I overthink how things are built, and I have a hard time not refactoring them.
 
-I mostly work with Python and TypeScript, usually mixing in other tools and frameworks as I go.
+I mostly work with Python and TypeScript, building things around:
+- automation
+- backend systems
+- data pipelines
 
-[aliceschm.com](https://www.aliceschm.com)
+Usually mixing in other tools and frameworks as I go.
+
+Checkout my latest portfolio website: [aliceschm.com](https://www.aliceschm.com)
 
 <p></p>
 
